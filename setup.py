@@ -54,7 +54,7 @@ setup(
         "Flask-Login>=0.3, <0.5",
         "Flask-OpenID>=1.2.5, <2",
         "Flask-SQLAlchemy>=2.4, <3",
-        "Flask-WTF>=0.14.2, <1",
+        "flask-wtf >=0.14.2",
         "Flask-JWT-Extended>=3.18, <4",
         "jsonschema>=3.0.1, <4",
         "marshmallow>=3, <4",
